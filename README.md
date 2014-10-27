@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-YAR - yet another repository
+This is my first Github repoistory for testing purposes
